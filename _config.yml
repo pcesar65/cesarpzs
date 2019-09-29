@@ -2,14 +2,14 @@
 title: Cesar
 subtitle: by Cesar
 email: cesar05@ucsb.edu
-description: UCSB graduate with B.S. Statistics and Data Science. 
+description: UCSB graduate with B.S on Statistics and Data Science. 
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
 city: Santa Barbara
 state: CA
-zip_code: 
+zip_code: 93101
 country: United States of America
 phone: 
 
