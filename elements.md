@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-image: assets/images/python.jpg
+image: assets/images/resume.jpg
 nav-menu: true
 ---
 
