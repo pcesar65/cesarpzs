@@ -1,7 +1,7 @@
 ---
 layout: post
 title: resume
-description: tutorials and random work
+description: ''
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
