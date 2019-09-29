@@ -1,8 +1,8 @@
 ---
 layout: post
-title: resume
+title: Projects
 description: ''
-image: assets/images/pic11.jpg
+image: assets/images/bigdata.jpg
 nav-menu: true
 ---
 
