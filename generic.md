@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: resume
 description: tutorials and random work
 image: assets/images/pic11.jpg
 nav-menu: true
