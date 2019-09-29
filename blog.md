@@ -2,7 +2,7 @@
 title: Blog
 layout: landing
 description: 'Tutorials and Interesting Topics'
-image: assets/images/pic07.jpg
+image: assets/images/blog.jpg
 nav-menu: true
 ---
 
