@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Blog
+description: tutorials and random work
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
