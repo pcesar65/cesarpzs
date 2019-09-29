@@ -20,7 +20,11 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Skills</h3>
-		<p>Spanish, Python Data Science, R studio, Excel</p>
+		<ul>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis dolore viverra.</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Skills 2</h3>
