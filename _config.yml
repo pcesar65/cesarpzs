@@ -2,7 +2,7 @@
 title: Cesar
 subtitle: by Cesar
 email: cesar05@ucsb.edu
-description: UCSB graduate with B.S on Statistics and Data Science. 
+description: UCSB graduate with B.S in Statistics and Data Science. 
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/cesarpz
+twitter_url:
 
 # build settings
 markdown: kramdown
