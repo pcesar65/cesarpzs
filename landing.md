@@ -1,5 +1,5 @@
 ---
-title: Resume
+title: Blog
 layout: landing
 description: ''
 image: assets/images/pic07.jpg
