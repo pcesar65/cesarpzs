@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Python for Data Science</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Learn the basic and a cheat sheet for reference.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>R-Studio</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
