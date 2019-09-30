@@ -13,12 +13,8 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resume</h1>
-			<div class="row 10% uniform">
 			<div class="4u$"><span class="image fit"><img src="assets/images/me.jpg" alt="" /></span></div>
-			</div>
 		</header>
-	
-	
 <!-- Content -->
 
 <h2 id="content">Summary</h2>
