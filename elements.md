@@ -11,11 +11,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
-	</div>
-</div>
 		<header class="major">
 			<h1>Resume</h1>
 		</header>
