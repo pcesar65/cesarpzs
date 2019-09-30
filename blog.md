@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Blog and Tutorials
 layout: landing
 description: 'Tutorials and Interesting Topics'
 image: assets/images/blog.jpg
