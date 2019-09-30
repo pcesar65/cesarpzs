@@ -13,14 +13,14 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<div class="row 50% uniform">
-	<div class="col-sm-4">
-	<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
-	</div>
+			<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
+			</div>
 			<h1>Resume</h1>
 		</header>
 	
 	
 <!-- Content -->
+
 <h2 id="content">Summary</h2>
 <p>Apply Data Analysis into the real world. Be part of a team of scientist that can research and improve the problem.</p>
 <div class="row">
