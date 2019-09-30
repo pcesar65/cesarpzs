@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Resume</h1>
 			<div class="row 10% uniform">
-			<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
+			<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/me.jpg">
 			</div>
 		</header>
 	
