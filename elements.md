@@ -13,6 +13,11 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Resume</h1>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u$"><span class="image fit"><img src="assets/images/pic10.jpg" alt="" /></span></div>
+	</div>
+</div>
 		</header>
 
 <!-- Content -->
@@ -33,7 +38,7 @@ nav-menu: true
 	</div>
 	<!-- Break -->
 <h2 id="content">Experience</h2>
-	<h3>Academic Tutor</h3>
+	<h4>Academic Tutor</h4>
 	<p>
 	<li>Mentored new tutors and coached on successful tutoring strategies.</li>
 	<li>Devised unique lessons to fit individual needs in skill building and full instruction on each subject.</li>
