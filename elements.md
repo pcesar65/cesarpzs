@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<div class="row marketing">
+			<div class="row 50% uniform">
 	<div class="col-sm-4">
 	<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
 	</div>
