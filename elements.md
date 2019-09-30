@@ -35,9 +35,9 @@ nav-menu: true
 	<h2 id="content">Experience</h2>
 	<div class="4u 12u$(medium)">
 		<h3>Academic Tutor</h3>
-		<li>Mentored new tutors and coached on successful tutoring strategies.</li>
+		<p><li>Mentored new tutors and coached on successful tutoring strategies.</li>
 			<li>Devised unique lessons to fit individual needs in skill building and full instruction on each subject.</li>
-			<li>Attended training and development courses to improve service offerings.</li>
+			<li>Attended training and development courses to improve service offerings.</li></p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Faucibus consequat lorem</h3>
