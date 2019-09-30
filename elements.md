@@ -32,11 +32,14 @@ nav-menu: true
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
 	</div>
 	<!-- Break -->
+	<div>
 	<h2 id="content">Experience</h2>
 		<h3>Academic Tutor</h3>
-		<li>Mentored new tutors and coached on successful tutoring strategies.</li>
+	<p>
+			<li>Mentored new tutors and coached on successful tutoring strategies.</li>
 	<li>Devised unique lessons to fit individual needs in skill building and full instruction on each subject.</li>
 		<li>Attended training and development courses to improve service offerings.</li>
+	</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Faucibus consequat lorem</h3>
