@@ -15,6 +15,11 @@ nav-menu: true
 			<h1>Resume</h1>
 		</header>
 
+<div class="row marketing">
+	<div class="col-sm-4">
+	<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
+	</div>
+	
 <!-- Content -->
 <h2 id="content">Summary</h2>
 <p>Apply Data Analysis into the real world. Be part of a team of scientist that can research and improve the problem.</p>
