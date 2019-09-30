@@ -12,10 +12,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<div class="row 50% uniform">
+			<h1>Resume</h1>
+			<div class="row 10% uniform">
 			<img  class="img-circle avatar" alt="Jonathan McGlone" src="assets/images/pic08.jpg">
 			</div>
-			<h1>Resume</h1>
 		</header>
 	
 	
